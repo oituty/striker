@@ -1,0 +1,154 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;  
+}
+
+.navbar{
+    background-color: #0D0C0C;
+}
+
+.logoNavMob{
+    height: 2rem;
+    width: auto;
+}
+
+.imgMenuMob{
+    height: 1.5rem;
+    width: auto;
+}
+
+.navbar-dark .navbar-toggler {
+    color: #0D0C0C;
+    border-color: #0D0C0C;
+  }
+
+header, section{
+    height: auto;
+    width: auto;
+}
+
+#sectionHeader{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+.colunaVideo{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../img/toa.jpg);
+    background-position: center center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+
+.playVideo{
+    width: 14rem;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    margin-left: -7rem;
+    margin-top: -2rem;
+}
+
+.playVideo:hover{
+    width: 16rem;
+    height: auto;
+    margin-left: -8rem;
+    margin-top: -2rem;
+}
+
+/* .colunaTexto{
+    width: 100vw;
+    height: 100vh;
+    background-color: #7D1919;
+    background-image: url(../img/fraseHeader.png);
+    background-position: center center;
+    background-size: 90vw auto;
+    background-repeat: no-repeat;
+} */
+
+#sectionProjeto{
+    width: 100vw;
+    height: auto;
+    background-color: #F59B34;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.logoVinho{
+    width: 15rem;
+    height: auto;
+    margin-top: 15vh;
+}
+
+.fone{
+    width: 100vw;
+    height: 100vh;
+}
+
+.fone2{
+    height: auto;
+    width: 100vw;
+    display: none;
+}
+
+#sectionPassos{
+    background-color: white;
+    width: 100vw;
+    height: auto;
+}
+
+
+.ativa{
+    display: block;
+  }
+
+.baixarApp{
+    width: 100vw;
+    height: auto;
+    background-color: #F59B34;
+    text-align: center;
+    padding-bottom: 2.5em;
+}
+
+img.imgBaixarApp {
+    width: 80vw;
+    height:  auto;
+    margin-top: 3em;
+}
+
+img.iconGooglePlay {
+    width: 60vw;
+    height:  auto;
+    margin-top: 2em;
+}
+
+.contato{
+    width: 100vw;
+    height: auto;
+    background-color: #7D1919;
+    text-align: center;
+    padding-bottom: 2.5em;
+}
+
+.imgContato{
+    width: 70vw;
+    height:  auto;
+    margin-top: 3em;
+}
+
+footer{
+    height: auto;
+    width: 100vw;
+    background-color: #0D0C0C;
+    text-align: center;
+}
+
+.iconSociais{
+    padding: 0.8em;
+}
