@@ -81,9 +81,9 @@ header, section{
 }
 
 .logoVinho{
-    width: 15rem;
+    width: 13rem;
     height: auto;
-    margin-top: 15vh;
+    margin-top: 10vh;
 }
 
 .fone{
@@ -111,7 +111,7 @@ header, section{
 .baixarApp{
     width: 100vw;
     height: auto;
-    background-color: #F59B34;
+    background-color: #7D1919;
     text-align: center;
     padding-bottom: 2.5em;
 }
@@ -151,4 +151,10 @@ footer{
 
 .iconSociais{
     padding: 0.8em;
+}
+
+.logoBranco{
+    width: 10rem;
+    height: auto;
+    padding-bottom: 1em;
 }
