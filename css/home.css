@@ -88,13 +88,14 @@ header, section{
 
 .fone{
     width: 100vw;
-    height: 100vh;
+    height: auto;
 }
 
 .fone2{
     height: auto;
     width: 100vw;
     display: none;
+    padding-bottom: 1rem;
 }
 
 #sectionPassos{
@@ -157,4 +158,8 @@ footer{
     width: 10rem;
     height: auto;
     padding-bottom: 1em;
+}
+
+a{
+    color: inherit;
 }
